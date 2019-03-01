@@ -1,13 +1,13 @@
 # news-widget
 
-###Install dependencies
+##Install dependencies
 yarn
 
-###Run project
+##Run project
 yarn start
 
-###Test
+##Test
 yarn test
 
-###Verify lint
+##Verify lint
 yarn lint
